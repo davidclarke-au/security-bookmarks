@@ -13,11 +13,11 @@ Name/Link | Description | Free? | Details
 [BGP Stats](https://bgp.he.net/) | Shows AS#'s, announcements, descriptions, looking glass links etc for public IP's and their associated ISP's | :white_check_mark: |
 [browserling](https://www.browserling.com/) | Live, interactive, cross-browser testing | :ballot_box_with_check: | Limited free options.
 [Browser Sandbox](https://turbo.net/browsers) | Run any browser online, including Chrome, Firefox, IE 8, IE 9, IE 10, and IE 11, and more. | :ballot_box_with_check: | Limited free options.
-[BrowserShots](http://browsershots.org/) - Input a URL a see a screenshot of it on many different browsers | :white_check_mark: |
-[Get Credit Card #'s](http://www.getcreditcardnumbers.com/) - Generate a credit card formatted #. Can select vendor, # to generate and format. | :white_check_mark: |
-[Secure TLS Implementations](https://wiki.mozilla.org/Security/Server_Side_TLS#Modern_compatibility) - Current, updated secure standards for implementing TLS | :white_check_mark: |
-[CentralOps Network Tools](https://centralops.net/co/) - Several different online tools - domain check, NSLookup, TraceRoute etc | :white_check_mark: |
-[CVE Details](https://www.cvedetails.com/) - Lookup a CVE and associated details | :white_check_mark: |
+[BrowserShots](http://browsershots.org/) | Input a URL a see a screenshot of it on many different browsers | :white_check_mark: |
+[Get Credit Card #'s](http://www.getcreditcardnumbers.com/) | Generate a credit card formatted #. Can select vendor, # to generate and format. | :white_check_mark: |
+[Secure TLS Implementations](https://wiki.mozilla.org/Security/Server_Side_TLS#Modern_compatibility) | Current, updated secure standards for implementing TLS | :white_check_mark: |
+[CentralOps Network Tools](https://centralops.net/co/) | Several different online tools - domain check, NSLookup, TraceRoute etc | :white_check_mark: |
+[CVE Details](https://www.cvedetails.com/) | Lookup a CVE and associated details | :white_check_mark: |
 [CVSS Calculator (v3)](https://chandanbn.github.io/cvss/#CVSS:3.0/AV:_/AC:_/PR:_/UI:_/S:_/C:_/I:_/A:_) | CVSS v3 Calculator | :white_check_mark: |
 [Online Dig](http://www.digwebinterface.com/) | Web Based Dig | :white_check_mark:
 [Google Online Dig](https://toolbox.googleapps.com/apps/dig/) | Google Web Based Dig | :white_check_mark:
