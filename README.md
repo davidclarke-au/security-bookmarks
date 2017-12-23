@@ -1,6 +1,6 @@
 # security-bookmarks
 
-To collate the best online tools, repos, go-to guides etc for Security folk.
+## To collate the best online tools, repos, go-to guides etc for Security folk.
 
 Name/Link | Description | Free? | Details
 ----------|-------------|----|--------
@@ -35,22 +35,21 @@ Name/Link | Description | Free? | Details
 [IP Lookup](http://www.ip-tracker.org/) | Good IP Lookup Tool | :white_check_mark: |
 [IP Lookup #2](https://www.ultratools.com/tools/ipWhoisLookup) | Another IP Lookup Tool | :white_check_mark: |
 [JWT Token Tool](https://jwt.io/) | JWT Encoder/Decoder | :white_check_mark: |
-[Email Tester](https://www.mail-tester.com/) | Email Scoring and Metrics | :white_check_mark:
-[Morning Star Security](https://www.morningstarsecurity.com/news#social-media) | All the latest Security News | :white_check_mark:
-[What's my Public IP](http://ip.symantec.com/) | Good tool to check your public NAT etc | :white_check_mark:
-[IP Lookup](https://myip.ms/) | Another good IP Lookup Tool | :white_check_mark:
-[NetCraft Site Report](https://toolbar.netcraft.com/site_report) | Excellent tool for Website history, setup, architecture and Security best practice analysis | :white_check_mark:
-[Network Tools](http://network-tools.com/) | Good free list of online Network Tools - whois, ping, trace etc | :white_check_mark:
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Email Tester](https://www.mail-tester.com/) | Email Scoring and Metrics | :white_check_mark: |
+[Morning Star Security](https://www.morningstarsecurity.com/news#social-media) | All the latest Security News | :white_check_mark: |
+[What's my Public IP](http://ip.symantec.com/) | Good tool to check your public NAT etc | :white_check_mark: |
+[IP Lookup](https://myip.ms/) | Another good IP Lookup Tool | :white_check_mark: |
+[NetCraft Site Report](https://toolbar.netcraft.com/site_report) | Excellent tool for Website history, setup, architecture and Security best practice analysis | :white_check_mark: |
+[Network Tools](http://network-tools.com/) | Good free list of online Network Tools - whois, ping, trace etc | :white_check_mark: |
+[Norse](http://map.norsecorp.com/#/) | Norse Attack Map | :white_check_mark: |
+[PenTest Tools](https://pentest-tools.com/home) | PenTest Tools - Black Book Tools - Info Gathering and Recon | :ballot_box_with_check: | Credit based system, initially free then payable if required.
+[PagerDuty Incident Response](https://response.pagerduty.com/) | Fantastic free resource for incident response | :ballot_box_with_check: |
+[PCI Database](https://pci-ids.ucw.cz/) | Useful for looking up unknown hardware or virtualised hardware devices | :white_check_mark: |
+[% Calculator](https://percentagecalculator.net/) | Calculate % of A, X is what % Y, increase/decrease | :white_check_mark: |
+[Port Check](http://ping.eu/port-chk/) | Online Telnet, useful if you need to verify if a port is open to world | :white_check_mark: |
+[privnote](https://privnote.com/#) | Need to send something securely? Self destructs | :white_check_mark: |
+[Privacy Tools](https://www.privacytools.io/) | privacytools.io provides knowledge and tools to protect your privacy against global mass surveillance. | :white_check_mark: |
+[The Register Security](http://www.theregister.co.uk/security/) | Reliable Security News Site | :white_check_mark: |
 []()
 []()
 []()
