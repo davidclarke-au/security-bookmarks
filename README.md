@@ -60,13 +60,21 @@ Name/Link | Description | Free? | Details
 [Shodan](https://www.shodan.io/) | Shodan is a search engine for Internet-connected devices. | :ballot_box_with_check: | Limited free use, sign up for unrestricted access
 [Slackmojis](https://slackmojis.com/) | An unofficial* directory of the best custom slack emojis | :white_check_mark: |
 [SPF Policy Tester](https://vamsoft.com/support/tools/spf-policy-tester) | Check your SPF policy for syntax errors to discover problems prior publishing. | :white_check_mark: |
-[SSH Client](http://www.serfish.com/console/) | 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[SSH Client](http://www.serfish.com/console/) | Browser based SSH client | :white_check_mark: |
+[SSL Cert Diag Tool](https://www.digicert.com/help/) | Useful tool to locate the problem and verify your SSL Certificate installation. | :white_check_mark: |
+[SSL Labs](https://www.ssllabs.com/ssltest/) | Free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | :white_check_mark: |
+[Subnet Mask Cheatsheet](https://kthx.at/subnetmask/) | IPv4 Subnet Mask Cheat Sheet | :white_check_mark: |
+[Subnet Calculator](http://www.subnet-calculator.com/) | IP Subnet Mask Calculator enables subnet network calculations using network class, IP address, subnet mask, subnet bits, mask bits, maximum required IP subnets and maximum required hosts per subnet. | :white_check_mark: |
+[TCP/UDP Port #'s](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) | This is a list of TCP and UDP port numbers used by protocols of the transport layer of the Internet protocol suite for the establishment of host-to-host connectivity. | :white_check_mark: |
+[Text Mechanic](http://textmechanic.com/) | Simple, single task, browser based, text manipulation tools. | :white_check_mark: |
+[TinyEye](https://www.tineye.com/) | Search by image and find where that image appears online | :white_check_mark: |
+[TLS Bible](https://en.wikipedia.org/wiki/Transport_Layer_Security) | Useful to check exact support levels of TLS | :white_check_mark: |
+[Touch Typing Tool](https://www.typingclub.com/) | Learn Touch Typing for free! | :white_check_mark: |
+[TypeForm](https://www.typeform.com/) | Free, beautiful forms with great UX/UI | :white_check_mark: |
+[URL Query](http://urlquery.net/) | Online service for detecting and analyzing web-based malware. | :white_check_mark: |
+[Report URI](https://report-uri.com/home/tools) | Tools to analyse and monitor website security policies like CSP and HPKP. | :white_check_mark: |
+[URL Decoder](https://meyerweb.com/eric/tools/dencoder/) | Handy for turning encoded JavaScript URLs from complete gibberish into readable gibberish. | :white_check_mark: |
+[User Agent String](http://www.useragentstring.com/index.php) | Tool to analyse and break down the User Agent String | :white_check_mark: |
+[Virus Total](https://www.virustotal.com/#/home/upload) |  Upload and scan a file to determine whether or not malicious. | :white_check_mark: |
+[Whats My DNS?](https://www.whatsmydns.net/) | Verify DNS propagation or record information from multiple countries. | :white_check_mark: |
+[You Get Signal](https://www.yougetsignal.com/tools/open-ports/) | The open port checker is a tool you can use to check your external IP address and detect open ports on your connection. | :white_check_mark: |
