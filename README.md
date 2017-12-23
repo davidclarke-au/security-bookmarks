@@ -43,13 +43,24 @@ Name/Link | Description | Free? | Details
 [Network Tools](http://network-tools.com/) | Good free list of online Network Tools - whois, ping, trace etc | :white_check_mark: |
 [Norse](http://map.norsecorp.com/#/) | Norse Attack Map | :white_check_mark: |
 [PenTest Tools](https://pentest-tools.com/home) | PenTest Tools - Black Book Tools - Info Gathering and Recon | :ballot_box_with_check: | Credit based system, initially free then payable if required.
-[PagerDuty Incident Response](https://response.pagerduty.com/) | Fantastic free resource for incident response | :ballot_box_with_check: |
+[PagerDuty Incident Response](https://response.pagerduty.com/) | Fantastic free resource for incident response | :white_check_mark: |
 [PCI Database](https://pci-ids.ucw.cz/) | Useful for looking up unknown hardware or virtualised hardware devices | :white_check_mark: |
 [% Calculator](https://percentagecalculator.net/) | Calculate % of A, X is what % Y, increase/decrease | :white_check_mark: |
 [Port Check](http://ping.eu/port-chk/) | Online Telnet, useful if you need to verify if a port is open to world | :white_check_mark: |
 [privnote](https://privnote.com/#) | Need to send something securely? Self destructs | :white_check_mark: |
 [Privacy Tools](https://www.privacytools.io/) | privacytools.io provides knowledge and tools to protect your privacy against global mass surveillance. | :white_check_mark: |
 [The Register Security](http://www.theregister.co.uk/security/) | Reliable Security News Site | :white_check_mark: |
+[RegEx 101](https://regex101.com/) | RegEx string tester | :white_check_mark: |
+[RegExr](https://regexr.com/) | Another RegEx cheat-sheet, editor and tool | :white_check_mark: |
+[Robtex](https://www.robtex.com/) | Robtex uses various sources to gather public information about IP numbers, domain names, host names, Autonomous systems, routes etc. It then indexes the data in a big database and provide free access to the data. | :white_check_mark: |
+[SafeLink](https://safelink.io/) | Send credit card numbers, important files, private messages in seconds. | :white_check_mark: |
+[Security Headers](https://securityheaders.io/) | HTTP response header and rating tool | :white_check_mark: |
+[Secure Password Generator](https://www.privacytools.io/password.html) | Use this online tool to generate a strong and random password | :white_check_mark: |
+[LastPass Secure Password Generator](https://lastpass.com/generatepassword.php) | Use the online LastPass Password Generator to instantly create a secure, random password. | :white_check_mark: |
+[Shodan](https://www.shodan.io/) | Shodan is a search engine for Internet-connected devices. | :ballot_box_with_check: | Limited free use, sign up for unrestricted access
+[Slackmojis](https://slackmojis.com/) | An unofficial* directory of the best custom slack emojis | :white_check_mark: |
+[SPF Policy Tester](https://vamsoft.com/support/tools/spf-policy-tester) | Check your SPF policy for syntax errors to discover problems prior publishing. | :white_check_mark: |
+[SSH Client](http://www.serfish.com/console/) | 
 []()
 []()
 []()
