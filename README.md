@@ -4,7 +4,6 @@
 
 Name/Link | Description | Free? | Details
 ----------|-------------|--|--------
-
 [Abuse IPDB](https://www.abuseipdb.com/) | Online DB to lookup abuse history from public IP's | :white_check_mark: |
 [APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  :white_check_mark: |
 [AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  :white_check_mark: |
