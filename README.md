@@ -4,9 +4,11 @@
 
 Name/Link | Description | Free? | Details
 ----------|-------------|--|--------
-[APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  :white_check_mark:
-[AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  :white_check_mark:
-[AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/) | Good readme and description on how to write IAM Policies |  :white_check_mark:
+
+[Abuse IPDB](https://www.abuseipdb.com/) | Online DB to lookup abuse history from public IP's | :white_check_mark: |
+[APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  :white_check_mark: |
+[AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  :white_check_mark: |
+[AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/) | Good readme and description on how to write IAM Policies |  :white_check_mark: |
 [AUSNOG Archives](http://lists.ausnog.net/pipermail/ausnog/) | The go to place for the inside word on anything happening with Australian ISPs |   :ballot_box_with_check: | Free to view, account required to post.
 [badsite](https://badsite.io/) | Reference guide and live examples of weak or misconfigured HTTP headers etc | :white_check_mark: |
 [badssl](https://badssl.com/) | Reference guide and live examples of misconfigured HTTPs configuration | :white_check_mark: |
@@ -27,6 +29,8 @@ Name/Link | Description | Free? | Details
 [DNS Query](https://dnsquery.org/) | Run a huge rage of DNS Queries, in browser. | :white_check_mark: |
 [AnonMailer](http://www.anonymailer.net/) | Send emails, good to spoof, test SPF/DMARC/DKIM effectiveness etc | :white_check_mark: |
 [FreeDNS](http://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8=) | Free DNS Name Server for private use | :white_check_mark: |
+[GWhois](https://gwhois.org/) | Another handy WHOIS tool and also bring in associated DNS Records | :white_check_mark: |
+[Hacker Target Tools](https://hackertarget.com/) | Online Vulnerability Scanners, IP and DNS Tools etc | :white_check_mark: |
 [HIBP](https://haveibeenpwned.com/) | Check emails/domains for results in data breaches | :white_check_mark: |
 [Google HTTPs Cert Transparency](https://transparencyreport.google.com/https/certificates) | Google's open framework to check HTTPs Certificates | :white_check_mark: |
 [Online HTTP Editor](https://www.quackit.com/html/online-html-editor/) | Online HTTP Editor and References | :white_check_mark: |
