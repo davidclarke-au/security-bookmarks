@@ -68,6 +68,7 @@ Name/Link | Description | Free? | Details
 [SSL Labs](https://www.ssllabs.com/ssltest/) | Free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | :white_check_mark: |
 [Subnet Mask Cheatsheet](https://kthx.at/subnetmask/) | IPv4 Subnet Mask Cheat Sheet | :white_check_mark: |
 [Subnet Calculator](http://www.subnet-calculator.com/) | IP Subnet Mask Calculator enables subnet network calculations using network class, IP address, subnet mask, subnet bits, mask bits, maximum required IP subnets and maximum required hosts per subnet. | :white_check_mark: |
+[Talky](https://talky.io) | Urgent meeting? Security Incident you need to talk about ASAP, Talky is a great free, video conferncing and screen sharing tool | :white_check_mark: |
 [TCP/UDP Port #'s](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) | This is a list of TCP and UDP port numbers used by protocols of the transport layer of the Internet protocol suite for the establishment of host-to-host connectivity. | :white_check_mark: |
 [Text Mechanic](http://textmechanic.com/) | Simple, single task, browser based, text manipulation tools. | :white_check_mark: |
 [TinyEye](https://www.tineye.com/) | Search by image and find where that image appears online | :white_check_mark: |
