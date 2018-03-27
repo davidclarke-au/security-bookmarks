@@ -68,7 +68,7 @@ Name/Link | Description | Free? | Details
 [SSH Client](http://www.serfish.com/console/) | Browser based SSH client | :white_check_mark: |
 [SSL Cert Diag Tool](https://www.digicert.com/help/) | Useful tool to locate the problem and verify your SSL Certificate installation. | :white_check_mark: |
 [SSL Labs](https://www.ssllabs.com/ssltest/) | Free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | :white_check_mark: |
-[Standard Notes](https://standardnotes.org/) | Standard Notes is free to use on every platform, and comes standard with cross-platform sync and end-to-end privacy | ::ballot_box_with_check: | Excellent free version, pay for extensions, 2FA etc.
+[Standard Notes](https://standardnotes.org/) | Standard Notes is free to use on every platform, and comes standard with cross-platform sync and end-to-end privacy | :ballot_box_with_check: | Excellent free version, pay for extensions, 2FA etc.
 [Subnet Mask Cheatsheet](https://kthx.at/subnetmask/) | IPv4 Subnet Mask Cheat Sheet | :white_check_mark: |
 [Subnet Calculator](http://www.subnet-calculator.com/) | IP Subnet Mask Calculator enables subnet network calculations using network class, IP address, subnet mask, subnet bits, mask bits, maximum required IP subnets and maximum required hosts per subnet. | :white_check_mark: |
 [Talky](https://talky.io) | Urgent meeting? Security Incident you need to talk about ASAP, Talky is a great free, video conferncing and screen sharing tool | :white_check_mark: |
