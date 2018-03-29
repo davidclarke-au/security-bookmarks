@@ -20,6 +20,7 @@ Name/Link | Description | Free? | Details
 [CentralOps Network Tools](https://centralops.net/co/) | Several different online tools - domain check, NSLookup, TraceRoute etc | :white_check_mark: |
 [CVE Details](https://www.cvedetails.com/) | Lookup a CVE and associated details | :white_check_mark: |
 [CVSS Calculator (v3)](https://chandanbn.github.io/cvss/#CVSS:3.0/AV:_/AC:_/PR:_/UI:_/S:_/C:_/I:_/A:_) | CVSS v3 Calculator | :white_check_mark: |
+[Cyber Chef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. CyberChef encourages both technical and non-technical people to explore data formats, encryption and compression. | :white_check_mark: | 
 [Online Dig](http://www.digwebinterface.com/) | Web Based Dig | :white_check_mark:
 [Google Online Dig](https://toolbox.googleapps.com/apps/dig/) | Google Web Based Dig | :white_check_mark:
 [Calc](http://calc.50x.eu/) | Calculate HEX, DEC, OCT, BIN and set or clear bits directly. | :white_check_mark: |
