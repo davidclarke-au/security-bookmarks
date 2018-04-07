@@ -84,5 +84,6 @@ Name/Link | Description | Free? | Details
 [URL Decoder](https://meyerweb.com/eric/tools/dencoder/) | Handy for turning encoded JavaScript URLs from complete gibberish into readable gibberish. | :white_check_mark: |
 [User Agent String](http://www.useragentstring.com/index.php) | Tool to analyse and break down the User Agent String | :white_check_mark: |
 [Virus Total](https://www.virustotal.com/#/home/upload) |  Upload and scan a file to determine whether or not malicious. | :white_check_mark: |
+[ViewDNS](http://viewdns.info) | Useful tool if looking for domain takeover and DNS change history | :white_check_mark: |
 [Whats My DNS?](https://www.whatsmydns.net/) | Verify DNS propagation or record information from multiple countries. | :white_check_mark: |
 [You Get Signal](https://www.yougetsignal.com/tools/open-ports/) | The open port checker is a tool you can use to check your external IP address and detect open ports on your connection. | :white_check_mark: |
