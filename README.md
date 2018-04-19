@@ -26,6 +26,7 @@ Name/Link | Description | Free? | Details
 [Calc](http://calc.50x.eu/) | Calculate HEX, DEC, OCT, BIN and set or clear bits directly. | :white_check_mark: |
 [Draw.io](https://www.draw.io/) | When you need a decent looking Network or Architecture Diagram quickly | :white_check_mark: |
 [DMARC Wizard](https://www.unlocktheinbox.com/dmarcwizard/) | Setup and genereate a basic DMARC Record | :white_check_mark: |
+[DNS Dumpster])(https://DNSdumpster.com) | DNS recon and research, find and lookup dns records | :white_check_mark: |
 [DNS Query](https://dnsquery.org/) | Run a huge rage of DNS Queries, in browser. | :white_check_mark: |
 [AnonMailer](http://www.anonymailer.net/) | Send emails, good to spoof, test SPF/DMARC/DKIM effectiveness etc | :white_check_mark: |
 [AWS EC2 Reachability Tester](http://ec2-reachability.amazonaws.com/) | Verify connectivity to all AWS Regions via a connectivity check to a EC2 Instance | :white_check_mark: |
