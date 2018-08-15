@@ -34,6 +34,8 @@ Name/Link | Description | Free? | Details
 [GWhois](https://gwhois.org/) | Another handy WHOIS tool and also bring in associated DNS Records | :white_check_mark: |
 [Hacker Target Tools](https://hackertarget.com/) | Online Vulnerability Scanners, IP and DNS Tools etc | :white_check_mark: |
 [HIBP](https://haveibeenpwned.com/) | Check emails/domains for results in data breaches | :white_check_mark: |
+[HoneyBuckets](https://haveibeenpwned.com/) | Setup HoneyBuckets (S3) to assist in data breach or suspicious activity | :white_check_mark: |
+[HoneyTokens](https://canarytokens.org/generate) | Setup HoneyTokens to assist in data breach or suspicious activity | :white_check_mark: |
 [Google HTTPs Cert Transparency](https://transparencyreport.google.com/https/certificates) | Google's open framework to check HTTPs Certificates | :white_check_mark: |
 [Online HTTP Editor](https://www.quackit.com/html/online-html-editor/) | Online HTTP Editor and References | :white_check_mark: |
 [HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) | Full list of  HTTP Status codes and descriptions | :white_check_mark: |
