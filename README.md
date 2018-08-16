@@ -1,6 +1,6 @@
 # security-bookmarks
 
-## Collating the best online tools, repos, go-to guides etc for Security folk.
+## Collating the best online tools, repos, guides etc for Security.
 
 Name/Link | Description | Free? | Details
 ------------------|----------------------------|--|--------
