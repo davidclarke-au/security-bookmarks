@@ -30,6 +30,7 @@ Name/Link | Description | Free? | Details
 [DNS Query](https://dnsquery.org/) | Run a huge rage of DNS Queries, in browser. | :white_check_mark: |
 [AnonMailer](http://www.anonymailer.net/) | Send emails, good to spoof, test SPF/DMARC/DKIM effectiveness etc | :white_check_mark: |
 [AWS EC2 Reachability Tester](http://ec2-reachability.amazonaws.com/) | Verify connectivity to all AWS Regions via a connectivity check to a EC2 Instance | :white_check_mark: |
+[Extend Class](https://extendsclass.com/) | ExtendsClass provides tools directly usable in a browser. It saves you from having to install add-ons to your browser in order to add features. | :white_check_mark: |
 [FreeDNS](http://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8=) | Free DNS Name Server for private use | :white_check_mark: |
 [GWhois](https://gwhois.org/) | Another handy WHOIS tool and also bring in associated DNS Records | :white_check_mark: |
 [Hacker Target Tools](https://hackertarget.com/) | Online Vulnerability Scanners, IP and DNS Tools etc | :white_check_mark: |
