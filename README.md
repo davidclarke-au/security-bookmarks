@@ -87,6 +87,7 @@ Name/Link | Description | Free? | Details
 [Report URI](https://report-uri.com/home/tools) | Tools to analyse and monitor website security policies like CSP and HPKP. | :white_check_mark: |
 [URL Decoder](https://meyerweb.com/eric/tools/dencoder/) | Handy for turning encoded JavaScript URLs from complete gibberish into readable gibberish. | :white_check_mark: |
 [URL Haus](https://urlhaus.abuse.ch/browse/) | URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution. | :white_check_mark:
+[URL Scan](https://urlscan.io) | Scan and preview URL's etc... | :white_check_mark:
 [User Agent String](http://www.useragentstring.com/index.php) | Tool to analyse and break down the User Agent String | :white_check_mark: |
 [Virus Total](https://www.virustotal.com/#/home/upload) |  Upload and scan a file to determine whether or not malicious. | :white_check_mark: |
 [ViewDNS](http://viewdns.info) | Useful tool if looking for domain takeover and DNS change history | :white_check_mark: |
