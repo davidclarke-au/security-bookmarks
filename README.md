@@ -4,11 +4,11 @@
 
 ![status](https://img.shields.io/badge/Status-Version%201-brightgreen?style=for-the-badge&logo=github)
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/davidclarke-au/security-bookmarks)](https://GitHub.com/davidclarke-au/security-bookmarks/releases/)
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+[![GitHub issues](https://img.shields.io/github/issues/davidclarke-au/security-bookmarks)](https://GitHub.com/davidclarke-au/security-bookmarks/issues/)
 
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+[![GitHub version](https://badge.fury.io/gh/davidclarke-au/security-bookmarks)](https://github.com/davidclarke-au/security-bookmarks)
 
 ## Collating the best online tools, repos, guides etc for Security.
 
