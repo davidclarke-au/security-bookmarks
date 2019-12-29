@@ -2,14 +2,6 @@
 
 ![status](https://img.shields.io/badge/Status-V2-success?style=for-the-badge&logo=github)
 
-![status](https://img.shields.io/badge/Status-Version%201-brightgreen?style=for-the-badge&logo=github)
-
-[![GitHub release](https://img.shields.io/github/release/davidclarke-au/security-bookmarks)](https://GitHub.com/davidclarke-au/security-bookmarks/releases/)
-
-[![GitHub issues](https://img.shields.io/github/issues/davidclarke-au/security-bookmarks)](https://GitHub.com/davidclarke-au/security-bookmarks/issues/)
-
-[![GitHub version](https://badge.fury.io/gh/davidclarke-au/security-bookmarks)](https://github.com/davidclarke-au/security-bookmarks)
-
 ## Collating the best online tools, repos, guides etc for Security.
 
 Name/Link | Description | Free? | Details
