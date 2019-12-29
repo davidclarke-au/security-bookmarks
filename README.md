@@ -1,5 +1,15 @@
 # security-bookmarks
 
+![status](https://img.shields.io/badge/Status-V2-success?style=for-the-badge&logo=github)
+
+![status](https://img.shields.io/badge/Status-Version%201-brightgreen?style=for-the-badge&logo=github)
+
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+
 ## Collating the best online tools, repos, guides etc for Security.
 
 Name/Link | Description | Free? | Details
