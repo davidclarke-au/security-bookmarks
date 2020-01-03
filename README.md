@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/Status-V2-success?style=for-the-badge&logo=github)
 
-![status2](https://img.shields.io/badge/github/last-commit/:davidclarke-au/:security-bookmarks)
+![status2](https://img.shields.io/github/last-commit/davidclarke-au/security-bookmarks)
 
 ## Collating the best online tools, repos, guides etc for Security.
 
