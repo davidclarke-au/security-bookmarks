@@ -10,6 +10,7 @@ Name/Link | Description | Free? | Details
 ------------------|----------------------------|--|--------
 [Abuse IPDB](https://www.abuseipdb.com/) | Online DB to lookup abuse history from public IP's | :white_check_mark: |
 [APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  :white_check_mark: |
+[Any Run](https://app.any.run/) | Interactive Malware Analysis Service | :ballot_box_with_check: | Free and paid tiers
 [AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  :white_check_mark: |
 [AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/) | Good readme and description on how to write IAM Policies |  :white_check_mark: |
 [AUSNOG Archives](http://lists.ausnog.net/pipermail/ausnog/) | The go to place for the inside word on anything happening with Australian ISPs |   :ballot_box_with_check: | Free to view, account required to post.
@@ -19,6 +20,8 @@ Name/Link | Description | Free? | Details
 [browserling](https://www.browserling.com/) | Live, interactive, cross-browser testing | :ballot_box_with_check: | Limited free options.
 [Browser Sandbox](https://turbo.net/browsers) | Run any browser online, including Chrome, Firefox, IE 8, IE 9, IE 10, and IE 11, and more. | :ballot_box_with_check: | Limited free options.
 [BrowserShots](http://browsershots.org/) | Input a URL a see a screenshot of it on many different browsers | :white_check_mark: |
+[Code Sandbox](https://codesandbox.io/) | Online, instant IDE and prototyping tool | :white_check_mark: |
+[Cipher List](https://cipherli.st/) | Strong Ciphers for Apache, nginx and Lighttpd | :white_check_mark: |
 [Get Credit Card #'s](http://www.getcreditcardnumbers.com/) | Generate a credit card formatted #. Can select vendor, # to generate and format. | :white_check_mark: |
 [Secure TLS Implementations](https://wiki.mozilla.org/Security/Server_Side_TLS#Modern_compatibility) | Current, updated secure standards for implementing TLS | :white_check_mark: |
 [CentralOps Network Tools](https://centralops.net/co/) | Several different online tools - domain check, NSLookup, TraceRoute etc | :white_check_mark: |
@@ -36,12 +39,15 @@ Name/Link | Description | Free? | Details
 [AWS EC2 Reachability Tester](http://ec2-reachability.amazonaws.com/) | Verify connectivity to all AWS Regions via a connectivity check to a EC2 Instance | :white_check_mark: |
 [Extend Class](https://extendsclass.com/) | ExtendsClass provides tools directly usable in a browser. It saves you from having to install add-ons to your browser in order to add features. | :white_check_mark: |
 [FreeDNS](http://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8=) | Free DNS Name Server for private use | :white_check_mark: |
+[FTK Imager](https://accessdata.com/product-download) | FTK Imager and other Forensic Tools | :white_check_mark: |
 [GWhois](https://gwhois.org/) | Another handy WHOIS tool and also bring in associated DNS Records | :white_check_mark: |
 [Hacker Target Tools](https://hackertarget.com/) | Online Vulnerability Scanners, IP and DNS Tools etc | :white_check_mark: |
 [HIBP](https://haveibeenpwned.com/) | Check emails/domains for results in data breaches | :white_check_mark: |
 [HoneyBuckets](https://haveibeenpwned.com/) | Setup HoneyBuckets (S3) to assist in data breach or suspicious activity | :white_check_mark: |
 [HoneyTokens](https://canarytokens.org/generate) | Setup HoneyTokens to assist in data breach or suspicious activity | :white_check_mark: |
 [Google HTTPs Cert Transparency](https://transparencyreport.google.com/https/certificates) | Google's open framework to check HTTPs Certificates | :white_check_mark: |
+[GreyHat Warfare](https://buckets.grayhatwarfare.com/) | Tool to search for Open Amazon s3 Buckets and their contents | :white_check_mark: | Are also paid plans for greater access
+[GreyNoise Visulizer](https://viz.greynoise.io/) | GNQL to Query, IP, Domains, Tags etc... | :white_check_mark: | Free and paid plans
 [Online HTTP Editor](https://www.quackit.com/html/online-html-editor/) | Online HTTP Editor and References | :white_check_mark: |
 [HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) | Full list of  HTTP Status codes and descriptions | :white_check_mark: |
 [IP Subnet Calculator](http://www.subnet-calculator.com/) | Calculate network class, IP address, subnet mask, subnet bits, mask bits, maximum required IP subnets and maximum required hosts per subnet. | :white_check_mark: |
@@ -49,13 +55,16 @@ Name/Link | Description | Free? | Details
 [IP Lookup #2](https://www.ultratools.com/tools/ipWhoisLookup) | Another IP Lookup Tool | :white_check_mark: |
 [JWT Token Tool](https://jwt.io/) | JWT Encoder/Decoder | :white_check_mark: |
 [Email Tester](https://www.mail-tester.com/) | Email Scoring and Metrics | :white_check_mark: |
+[MetaPicz](http://metapicz.com/) | Online MetaData and EXIF Viewer | :white_check_mark: |
 [Morning Star Security](https://www.morningstarsecurity.com/news#social-media) | All the latest Security News | :white_check_mark: |
 [What's my Public IP](http://ip.symantec.com/) | Good tool to check your public NAT etc | :white_check_mark: |
 [IP Lookup](https://myip.ms/) | Another good IP Lookup Tool | :white_check_mark: |
 [NetCraft Site Report](https://toolbar.netcraft.com/site_report) | Excellent tool for Website history, setup, architecture and Security best practice analysis | :white_check_mark: |
 [Network Tools](http://network-tools.com/) | Good free list of online Network Tools - whois, ping, trace etc | :white_check_mark: |
+[Network Tools 2](https://centralops.net/co/) | Free online network tools | :white_check_mark: | 50 credits every 24 hours
 [Norse](http://map.norsecorp.com/#/) | Norse Attack Map | :white_check_mark: |
-[OWASP Top 10 - 2017](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project) | Wiki Page for the 2017 OWASP Top 10 | :white_check_mark: |
+[One Time Secret](https://onetimesecret.com/) | Share sensitive information that's both simple and secure | :white_check_mark: |
+[OWASP Top 10 - 2017](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project) | Wiki Page for the 2017 OWASP Top 10 | :white_check_mark: | 
 [PenTest Tools](https://pentest-tools.com/home) | PenTest Tools - Black Book Tools - Info Gathering and Recon | :ballot_box_with_check: | Credit based system, initially free then payable if required.
 [PagerDuty Incident Response](https://response.pagerduty.com/) | Fantastic free resource for incident response | :white_check_mark: |
 [PCI Database](https://pci-ids.ucw.cz/) | Useful for looking up unknown hardware or virtualised hardware devices | :white_check_mark: |
@@ -76,6 +85,7 @@ Name/Link | Description | Free? | Details
 [SPF Policy Tester](https://vamsoft.com/support/tools/spf-policy-tester) | Check your SPF policy for syntax errors to discover problems prior publishing. | :white_check_mark: |
 [SSH Client](http://www.serfish.com/console/) | Browser based SSH client | :white_check_mark: |
 [SSL Cert Diag Tool](https://www.digicert.com/help/) | Useful tool to locate the problem and verify your SSL Certificate installation. | :white_check_mark: |
+[SSL Decoder](https://ssldecoder.org/) | This site checks the SSL/TLS configuration of a server. In shows you the full certificate chain, including all kinds of information about every certificate, as well as connection information like ciphersuites and protocol support. Fill in either host + port or paste a CSR/Certficiate. Port defaults to 443. | :white_check_mark: |
 [SSL Labs](https://www.ssllabs.com/ssltest/) | Free online service performs a deep analysis of the configuration of any SSL web server on the public Internet | :white_check_mark: |
 [Standard Notes](https://standardnotes.org/) | Standard Notes is free to use on every platform, and comes standard with cross-platform sync and end-to-end privacy | :ballot_box_with_check: | Excellent free version, pay for extensions, 2FA etc.
 [Subnet Mask Cheatsheet](https://kthx.at/subnetmask/) | IPv4 Subnet Mask Cheat Sheet | :white_check_mark: |
