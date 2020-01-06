@@ -64,7 +64,7 @@ Name/Link | Description | Free? | Details
 [Network Tools 2](https://centralops.net/co/) | Free online network tools | :white_check_mark: | 50 credits every 24 hours
 [Norse](http://map.norsecorp.com/#/) | Norse Attack Map | :white_check_mark: |
 [One Time Secret](https://onetimesecret.com/) | Share sensitive information that's both simple and secure | :white_check_mark: |
-[OWASP Top 10 - 2017](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project) | Wiki Page for the 2017 OWASP Top 10 | :white_check_mark: | 
+[OWASP Top 10 - 2017](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) | Wiki Page for the 2017 OWASP Top 10 | :white_check_mark: | 
 [PenTest Tools](https://pentest-tools.com/home) | PenTest Tools - Black Book Tools - Info Gathering and Recon | :ballot_box_with_check: | Credit based system, initially free then payable if required.
 [PagerDuty Incident Response](https://response.pagerduty.com/) | Fantastic free resource for incident response | :white_check_mark: |
 [PCI Database](https://pci-ids.ucw.cz/) | Useful for looking up unknown hardware or virtualised hardware devices | :white_check_mark: |
