@@ -54,6 +54,7 @@ Name/Link | Description | Free? | Details
 [IP Lookup](http://www.ip-tracker.org/) | Good IP Lookup Tool | :white_check_mark: |
 [IP Lookup #2](https://www.ultratools.com/tools/ipWhoisLookup) | Another IP Lookup Tool | :white_check_mark: |
 [JWT Token Tool](https://jwt.io/) | JWT Encoder/Decoder | :white_check_mark: |
+[Jitsi](https://meet.jit.si/) | Jitsi Meeting Room - Free, No Plugins | :white_check_mark: |
 [Email Tester](https://www.mail-tester.com/) | Email Scoring and Metrics | :white_check_mark: |
 [MetaPicz](http://metapicz.com/) | Online MetaData and EXIF Viewer | :white_check_mark: |
 [Morning Star Security](https://www.morningstarsecurity.com/news#social-media) | All the latest Security News | :white_check_mark: |
