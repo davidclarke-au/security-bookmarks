@@ -9,8 +9,8 @@
 Name/Link | Description | Free? | Details
 ------------------|----------------------------|--|--------
 [Abuse IPDB](https://www.abuseipdb.com/) | Online DB to lookup abuse history from public IP's | ✅ |
-[APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  :white_check_mark: |
-[Any Run](https://app.any.run/) | Interactive Malware Analysis Service | :ballot_box_with_check: | Free and paid tiers
+[APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  ✅ |
+[Any Run](https://app.any.run/) | Interactive Malware Analysis Service | ☑️ | Free and paid tiers
 [AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  :white_check_mark: |
 [AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/) | Good readme and description on how to write IAM Policies |  :white_check_mark: |
 [AUSNOG Archives](http://lists.ausnog.net/pipermail/ausnog/) | The go to place for the inside word on anything happening with Australian ISPs |   :ballot_box_with_check: | Free to view, account required to post.
