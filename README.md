@@ -8,7 +8,7 @@
 
 Name/Link | Description | Free? | Details
 ------------------|----------------------------|--|--------
-[Abuse IPDB](https://www.abuseipdb.com/) | Online DB to lookup abuse history from public IP's | :white_check_mark: |
+[Abuse IPDB](https://www.abuseipdb.com/) | Online DB to lookup abuse history from public IP's | ✅ |
 [APNIC Whois Database](https://wq.apnic.net/apnic-bin/whois.pl) | IP Range Lookup tool, useful for Range Details, Owner, Abuse, Authoritive Registry etc |  :white_check_mark: |
 [Any Run](https://app.any.run/) | Interactive Malware Analysis Service | :ballot_box_with_check: | Free and paid tiers
 [AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  :white_check_mark: |
@@ -25,7 +25,7 @@ Name/Link | Description | Free? | Details
 [Get Credit Card #'s](http://www.getcreditcardnumbers.com/) | Generate a credit card formatted #. Can select vendor, # to generate and format. | :white_check_mark: |
 [Secure TLS Implementations](https://wiki.mozilla.org/Security/Server_Side_TLS#Modern_compatibility) | Current, updated secure standards for implementing TLS | :white_check_mark: |
 [CentralOps Network Tools](https://centralops.net/co/) | Several different online tools - domain check, NSLookup, TraceRoute etc | :white_check_mark: |
-[CromeFlare](http://www.crimeflare.org:82/cfs.html) | Reveal the IP DNS info of a domain before it was put behind CloudFlare | ✅ |
+[CrimeFlare](http://www.crimeflare.org:82/cfs.html) | Reveal the IP DNS info of a domain before it was put behind CloudFlare | ✅ |
 [CVE Details](https://www.cvedetails.com/) | Lookup a CVE and associated details | :white_check_mark: |
 [CVSS Calculator (v3)](https://chandanbn.github.io/cvss/#CVSS:3.0/AV:_/AC:_/PR:_/UI:_/S:_/C:_/I:_/A:_) | CVSS v3 Calculator | :white_check_mark: |
 [Cyber Chef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. CyberChef encourages both technical and non-technical people to explore data formats, encryption and compression. | :white_check_mark: | 
