@@ -6,7 +6,7 @@
 
 ## Collating the best online tools, repos, guides etc for Security.
 
-*Lots* of other tools listed and updated at - https://github.com/davidclarke-au?tab=stars
+*Lots* of other tools listed and updated at - [GitHub Starred Repositories](https://github.com/davidclarke-au?tab=stars)
 
 Name/Link | Description | Free? | Details
 ------------------|----------------------------|--|--------
