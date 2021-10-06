@@ -111,4 +111,3 @@ Name/Link | Description | Free? | Details
 [ViewDNS](http://viewdns.info) | Useful tool if looking for domain takeover and DNS change history | ✅ |
 [Whats My DNS?](https://www.whatsmydns.net/) | Verify DNS propagation or record information from multiple countries. | ✅ |
 [You Get Signal](https://www.yougetsignal.com/tools/open-ports/) | The open port checker is a tool you can use to check your external IP address and detect open ports on your connection. | ✅ |
-![image](https://user-images.githubusercontent.com/28612479/136294697-12575930-e2d8-4172-a864-dc2719f106b2.png)
