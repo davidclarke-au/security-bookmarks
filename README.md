@@ -16,6 +16,7 @@ Name/Link | Description | Free? | Details
 [AWS Windows AMI Version History](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-ami-version-history.html) | Reference page for AWS Windwos AMI's and the changelog. |  ✅ |
 [AWS IAM Policies in a Nutshell](https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/) | Good readme and description on how to write IAM Policies |  ✅ |
 [AUSNOG Archives](http://lists.ausnog.net/pipermail/ausnog/) | The go to place for the inside word on anything happening with Australian ISPs |   ☑️ | Free to view, account required to post.
+[AlientVault OTX](https://otx.alienvault.com/) | Open Threat Exchange | ✅ |
 [badsite](https://badsite.io/) | Reference guide and live examples of weak or misconfigured HTTP headers etc | ✅ |
 [badssl](https://badssl.com/) | Reference guide and live examples of misconfigured HTTPs configuration | ✅ |
 [BGP Stats](https://bgp.he.net/) | Shows AS#'s, announcements, descriptions, looking glass links etc for public IP's and their associated ISP's | ✅ |
@@ -48,6 +49,7 @@ Name/Link | Description | Free? | Details
 [HIBP](https://haveibeenpwned.com/) | Check emails/domains for results in data breaches | ✅ |
 [HoneyBuckets](https://haveibeenpwned.com/) | Setup HoneyBuckets (S3) to assist in data breach or suspicious activity | ✅ |
 [HoneyTokens](https://canarytokens.org/generate) | Setup HoneyTokens to assist in data breach or suspicious activity | ✅ |
+[HybridAnalysis](https://www.hybrid-analysis.com/) | Sandbox Tooling powered by Crowdstriek Falcon Sandbox | ✅ |
 [Google HTTPs Cert Transparency](https://transparencyreport.google.com/https/certificates) | Google's open framework to check HTTPs Certificates | ✅ |
 [GreyHat Warfare](https://buckets.grayhatwarfare.com/) | Tool to search for Open Amazon s3 Buckets and their contents | ✅ | Are also paid plans for greater access
 [GreyNoise Visulizer](https://viz.greynoise.io/) | GNQL to Query, IP, Domains, Tags etc... | ✅ | Free and paid plans
