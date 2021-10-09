@@ -24,7 +24,7 @@ Name/Link | Description | Free? | Details
 [Browser Sandbox](https://turbo.net/browsers) | Run any browser online, including Chrome, Firefox, IE 8, IE 9, IE 10, and IE 11, and more. | ☑️ | Limited free options.
 [BrowserShots](http://browsershots.org/) | Input a URL a see a screenshot of it on many different browsers | ✅ |
 [Code Sandbox](https://codesandbox.io/) | Online, instant IDE and prototyping tool | ✅ |
-[Cipher List](https://cipherli.st/) | Strong Ciphers for Apache, nginx and Lighttpd | ✅ |
+[Cipher List](https://cipherlist.eu/) | Strong Ciphers for Apache, nginx and Lighttpd | ✅ |
 [Get Credit Card #'s](http://www.getcreditcardnumbers.com/) | Generate a credit card formatted #. Can select vendor, # to generate and format. | ✅ |
 [Secure TLS Implementations](https://wiki.mozilla.org/Security/Server_Side_TLS#Modern_compatibility) | Current, updated secure standards for implementing TLS | ✅ |
 [CentralOps Network Tools](https://centralops.net/co/) | Several different online tools - domain check, NSLookup, TraceRoute etc | ✅ |
