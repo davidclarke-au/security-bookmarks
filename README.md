@@ -49,7 +49,7 @@ Name/Link | Description | Free? | Details
 [HIBP](https://haveibeenpwned.com/) | Check emails/domains for results in data breaches | ✅ |
 [HoneyBuckets](https://haveibeenpwned.com/) | Setup HoneyBuckets (S3) to assist in data breach or suspicious activity | ✅ |
 [HoneyTokens](https://canarytokens.org/generate) | Setup HoneyTokens to assist in data breach or suspicious activity | ✅ |
-[HybridAnalysis](https://www.hybrid-analysis.com/) | Sandbox Tooling powered by Crowdstriek Falcon Sandbox | ✅ |
+[HybridAnalysis](https://www.hybrid-analysis.com/) | Sandbox Tooling powered by Crowdstrike Falcon Sandbox | ✅ |
 [Google HTTPs Cert Transparency](https://transparencyreport.google.com/https/certificates) | Google's open framework to check HTTPs Certificates | ✅ |
 [GreyHat Warfare](https://buckets.grayhatwarfare.com/) | Tool to search for Open Amazon s3 Buckets and their contents | ✅ | Are also paid plans for greater access
 [GreyNoise Visulizer](https://viz.greynoise.io/) | GNQL to Query, IP, Domains, Tags etc... | ✅ | Free and paid plans
